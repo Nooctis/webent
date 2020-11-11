@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19d8e2d0-fa2e-487f-a139-c32149aeb25c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k70cJgGh7ELbK2hahMhdfK3RoP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="/Applications/XAMPP/xamppfiles/htdocs/web-entwicklung" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="/Applications/XAMPP/xamppfiles/htdocs/web-entwicklung" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19d8e2d0-fa2e-487f-a139-c32149aeb25c" name="Default Changelist" comment="" />
+      <created>1605036404575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605036404575</updated>
+      <workItem from="1605036406716" duration="1382000" />
+      <workItem from="1605039346428" duration="142000" />
+      <workItem from="1605050382500" duration="4671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1327" y="375" key="#Deployment" timestamp="1605055243760">
+      <screen x="0" y="23" width="2560" height="1352" />
+    </state>
+    <state x="1327" y="375" key="#Deployment/0.23.2560.1352@0.23.2560.1352" timestamp="1605055243760" />
+    <state x="1398" y="419" key="#SSH_Configurations" timestamp="1605054499390">
+      <screen x="0" y="23" width="2560" height="1352" />
+    </state>
+    <state x="1398" y="419" key="#SSH_Configurations/0.23.2560.1352@0.23.2560.1352" timestamp="1605054499390" />
+    <state x="1262" y="434" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605052960234">
+      <screen x="0" y="23" width="2560" height="1352" />
+    </state>
+    <state x="1262" y="434" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1352@0.23.2560.1352" timestamp="1605052960234" />
+    <state x="443" y="364" key="SettingsEditor" timestamp="1605038855115">
+      <screen x="0" y="23" width="2560" height="1352" />
+    </state>
+    <state x="443" y="364" key="SettingsEditor/0.23.2560.1352@0.23.2560.1352" timestamp="1605038855115" />
+    <state x="1257" y="499" key="Vcs.Push.Dialog.v2" timestamp="1605055058548">
+      <screen x="0" y="23" width="2560" height="1352" />
+    </state>
+    <state x="1257" y="499" key="Vcs.Push.Dialog.v2/0.23.2560.1352@0.23.2560.1352" timestamp="1605055058548" />
+    <state x="848" y="462" width="513" height="525" key="ftp.server.browser" timestamp="1605054762176">
+      <screen x="0" y="23" width="2560" height="1352" />
+    </state>
+    <state x="848" y="462" width="513" height="525" key="ftp.server.browser/0.23.2560.1352@0.23.2560.1352" timestamp="1605054762176" />
+  </component>
+</project>
